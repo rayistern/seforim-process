@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hebrew Text Processing
 
 This project processes Hebrew texts from MongoDB using OpenAI's GPT models to generate chunks and metadata, then stores the results in Supabase.
@@ -64,3 +65,6 @@ Logs are written to the console and to an `app.log` file in the project root. Ad
 ## Contributing
 
 Contributions are welcome. Please open an issue or submit a pull request. 
+=======
+# seforim-process
+>>>>>>> origin/main
