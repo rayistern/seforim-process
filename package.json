@@ -1,0 +1,23 @@
+{
+  "name": "my-llm-project",
+  "version": "1.0.0",
+  "description": "Process Hebrew texts using OpenAI's GPT models, with MongoDB and Supabase integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rayi Stern",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.48.0",
+    "dotenv": "^16.4.7",
+    "handlebars": "^4.7.8",
+    "mongodb": "^6.12.0",
+    "openai": "^3.3.0",
+    "string-strip-html": "^9.1.13",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {},
+  "keywords": ["hebrew", "text-processing", "llm", "openai", "mongodb", "supabase"]
+}

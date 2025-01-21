@@ -1,0 +1,11 @@
+# node_modules directory
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+app.log
+
+# Other files
+.DS_Store 
