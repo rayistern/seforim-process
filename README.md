@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hebrew Text Processing
 
 This project processes Hebrew texts from MongoDB using OpenAI's GPT models to generate chunks and metadata, then stores the results in Supabase.
